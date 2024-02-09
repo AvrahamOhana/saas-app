@@ -1,12 +1,21 @@
-# React + Vite + Material UI Template
-<img src="public/react.svg" alt="react icon" width="100" height="100"> <img src="public/vite.svg" alt="vite icon" width="100" height="100"> <img src="public/mui.svg" alt="mui icon" width="100" height="100">
+# SaaS App Template
+SaaS App Template is a template for a SaaS application, built with React, Vite, and Material-UI.
+
+## Features
+- React
+- Vite
+- Material-UI
+- React-Router-Dom
+
+<img src="public/screenshot1.png" alt="screenshot3">
+
 ## How to use
 
 Download the example [or clone the whole project]
 
 ```bash
-git clone https://github.com/AvrahamOhana/react-vite-mui-template.git
-cd react-vite-mui-template
+git clone https://github.com/AvrahamOhana/saas-app.git
+cd saas-app
 ```
 
 Install it and run:
